@@ -1,4 +1,4 @@
-# SmarticlesNU
+# SmarticlePlatform
 
 Installating Python Dependencies
 ------------
@@ -44,10 +44,7 @@ To modify the code on the smarticles themselves, you will also need to instal Mi
     Follow the instructions to install in Arduino IDE: [MiniCore Link](https://github.com/MCUdude/MiniCore#how-to-install) 
     <br>
     
-After Installing all these dependencies you will have to move the files from the Code/Arduino folder into your local Arduino folder (usually found in documents)  
-<br>
-        **1.**  Move the programmable_smarticle folder into your Arduino directory (should be then documents/Arduino/programmable_smarticle)  
-        **2.**  Move the contents of the repo Arduino/libraries folder into your local Arduino/libraries folder  
+After Installing all these dependencies you will have to move the files from the Arduino/libraries folder into your local Arduino/libraries folder.   
     
 You will have to restart the Arduino IDE and then you should be able to open the programmable_smarticle.ino sketch and you should see PWMServo, NeoSWSerial, and Smarticle in the Sketch->Include Library file menu.
 
