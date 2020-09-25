@@ -1,4 +1,4 @@
-# EpsilonPoseExample.py
+# SmarticleSyncExample.py
 import sys
 sys.path.append('pysmarticle')
 
@@ -32,6 +32,4 @@ swarm.set_mode(2)
 L = [0,180,180,0]
 R = [0,0,180,180]
 swarm.gait_init([L,R],450) #gaits, delay between poitns in ms; I wouldnt go faster than 200ms
-
-# set pose epsilon to 0.1 (perform a random arm movement with 0.1 probability)
 swarm.set_pose_epsilon(0.1)
