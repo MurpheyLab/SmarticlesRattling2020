@@ -1,0 +1,11 @@
+_mexFunction
+_mexfilerequiredapiversion
+_emlrtMexFcnProperties
+_smcle2coord
+_MEXGlobalSyncInFunction
+_MEXGlobalSyncOutFunction
+_emlrt_synchGlobalsFromML
+_emlrt_synchGlobalsToML
+_smcle2coord_initialize
+_smcle2coord_terminate
+_smcle2coord_atexit

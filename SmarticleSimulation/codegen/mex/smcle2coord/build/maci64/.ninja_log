@@ -1,0 +1,13 @@
+# ninja log v5
+1	128	1600777156	build/maci64/smcle2coord_data.o	dc66c66b1753918f
+1	129	1600777156	build/maci64/smcle2coord_initialize.o	fc1e33b4998a0462
+0	146	1600777156	build/maci64/smcle2coord_mexutil.o	738e40b3cc28a5ec
+4	158	1600777156	build/maci64/sin.o	72a2e009741fd428
+2	166	1600777156	build/maci64/smcle2coord_terminate.o	91d538e96e7d05b0
+166	242	1600777156	build/maci64/c_mexapi_version.o	2ec31885ac40f62e
+130	250	1600777156	build/maci64/_coder_smcle2coord_info.o	1b83959487834a2f
+128	253	1600777156	build/maci64/cos.o	a3842775c30963c9
+158	256	1600777156	build/maci64/_coder_smcle2coord_mex.o	8a78b7791430ff4d
+146	261	1600777156	build/maci64/_coder_smcle2coord_api.o	81eb53236c01c7ff
+2	369	1600777156	build/maci64/smcle2coord.o	dc11819154c35580
+369	421	1600777156	smcle2coord_mex.mexmaci64	b866d41fe6f0682b
