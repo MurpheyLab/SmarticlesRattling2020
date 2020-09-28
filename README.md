@@ -1,6 +1,6 @@
-# SmarticlesScience2020
+# SmarticlesRattling2020
 
-This is the repository corresponding to the manuscript "Low rattling: a predictive principle for self-organization in active collectives." This repository includes all the hardware design and software files for the smarticle system. Examples can be found in "SmarticlePlatform/Code/Python/Examples". See [Smarticle Tracking](https://github.com/MurpheyLab/SmarticleTracking) for the a python AprilTag tracking library and our MATLAB simulation in "SmarticleSimulation."  
+This repository includes all the hardware design and software files for the smarticle system. Examples can be found in "SmarticlePlatform/Code/Python/Examples". See [Smarticle Tracking](https://github.com/MurpheyLab/SmarticleTracking) for a python AprilTag tracking library and our MATLAB simulation in "SmarticleSimulation."  
 
 All documentation for the python modules in this repository is available [here](https://murpheylab.github.io/SmarticlesNU/)
 
