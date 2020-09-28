@@ -1,4 +1,5 @@
 # SmarticlesRattling2020
+[![DOI](https://zenodo.org/badge/249556809.svg)](https://zenodo.org/badge/latestdoi/249556809)
 
 This repository includes all the hardware design and software files for the smarticle system. Examples can be found in "SmarticlePlatform/Code/Python/Examples". See [Smarticle Tracking](https://github.com/MurpheyLab/SmarticleTracking) for a python AprilTag tracking library and our MATLAB simulation in "SmarticleSimulation."  
 
