@@ -1,6 +1,6 @@
-# SmarticlesNU
+# SmarticlesScience2020
 
-This repository includes all the hardware design and software files for the smarticle system. Examples can be found in Code/Python/Examples. See [Smarticle Tracking](https://github.com/murpheylab/SmarticleTracking) for the a python AprilTag tracking library and [SmarticleSimulation](https://github.com/asamland/SmarticleSimulation) for a PyBullet simulator of the system.  
+This is the repository corresponding to the manuscript "Low rattling: a predictive principle for self-organization in active collectives." This repository includes all the hardware design and software files for the smarticle system. Examples can be found in "SmarticlePlatform/Code/Python/Examples". See [Smarticle Tracking](https://github.com/MurpheyLab/SmarticleTracking) for the a python AprilTag tracking library and our MATLAB simulation in "SmarticleSimulation."  
 
 All documentation for the python modules in this repository is available [here](https://murpheylab.github.io/SmarticlesNU/)
 
